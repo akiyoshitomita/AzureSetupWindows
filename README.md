@@ -1,0 +1,2 @@
+# AzureSetupWindows
+Azure no
