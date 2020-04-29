@@ -1,2 +1,3 @@
-# AzureSetupWindows
-Azure no
+# Azure Windowsセットアップ
+Azure のテンプレート集
+
